@@ -13,6 +13,6 @@ class Puppy
   end
 
   def to_s
-    "#{name} is just a lil pup. He's a #{breed}."
+    "#{name} it's just a lil pup. He's a #{breed}."
   end
 end
